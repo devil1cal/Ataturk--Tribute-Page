@@ -8,7 +8,7 @@
       <li>I need to change the code for responsive</li>
       <li>I need to add cross-browser componants</li>
      </ul>
-   <p>I will be fixed and re-push all my clone & add time stamps</p>
+   <p>Created by me, on september 7 2018</p>
     <p>Please don't use without permission</p>
     <p>We will meet again</p> 
     <p><a href="https://www.linkedin.com/in/damlaumar/">For More Information About Me</a></p>
