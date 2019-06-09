@@ -3,7 +3,7 @@
   <head>
   </head>
   <body>
-  <p>Hi there, I'm self-taught junior front-end designer. This is my own code, I will change and fix many issues in time. I created this one for certification program on <a href="https://learn.freecodecamp.org">Free Code Camp</a>. You can see my code on <a href="https://codepen.io/devil1cal/full/OoOMob">Code Pen</a> too. I'm still learning important componants about the language, espacially CSS. I didn't try to make responsive this one because I need more information about responsive design, but still I need to check, fix and add some componants like;</p>
+  <p>Hi there, I'm self-taught junior front-end developer. This is my own code, I will change and fix many issues in time. I created this one for certification program on <a href="https://learn.freecodecamp.org">Free Code Camp</a>. You can see my code on <a href="https://codepen.io/devil1cal/full/OoOMob">Code Pen</a> too. I'm still learning important componants about the language, espacially CSS. I didn't try to make responsive this one because I need more information about responsive design, but still I need to check, fix and add some componants like;</p>
     <ul>
       <li>I need to change the code for responsive</li>
       <li>I need to add cross-browser componants</li>
