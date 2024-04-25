@@ -2,7 +2,7 @@
 
 
 - 🌱 It is simple tribute page for showcase purpose 
-- 💬 online link is <a href="https://devil1cal.github.io/tribute_page/index.html](https://devil1cal.github.io/Ataturk-Tribute-Page/" target="_blank">here</a>
+- 💬 online link is <a href="https://devil1cal.github.io/tribute_page/index.html" target="_blank">here</a>
 
 
 # Overview
